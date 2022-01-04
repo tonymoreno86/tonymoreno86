@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonymoreno86
 - 👀 I’m interested in FrontEnd Development and Email Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on any Email or Frontend Project
 - 📫 How to reach me tonymoreno86@gmail.com
 
