@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonymoreno86
-- 👀 I’m interested in Email & iOS Development
-- 🌱 I’m currently learning iOS Swift
-- 💞️ I’m looking to collaborate on any Email or iOS Project
+- 👀 I’m interested in Email & Web Development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on any Email or Web Dev Projects
 - 📫 How to reach me tonymoreno86@gmail.com
 
 <!---
